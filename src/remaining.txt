@@ -1,0 +1,6 @@
+NOTE :- FOR DEVELOPER!
+
+Responsiveness
+Connecting pages
+JavaScript Functions
+Adding Images
